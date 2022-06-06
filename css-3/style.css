@@ -1,0 +1,38 @@
+.container {
+  margin: 30px;
+}
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  letter-spacing: -1px;
+}
+
+h1 {
+  font-size: 30px;
+  line-height: 30px;
+}
+
+p {
+  font-size: 20px;
+  line-height: 30px;
+  color: #bbc5d7;
+  margin-bottom: 50px;
+}
+
+h2 {
+  font-size: 25px;
+  line-height: 20px;
+}
+
+h3 {
+  font-size: 20px;
+  line-height: 30px;
+  color: #bbc5d7;
+  margin-bottom: 50px;
+  margin-left: 65px;
+}
+
+i {
+  margin-right: 20px;
+  margin-top: 20px;
+}

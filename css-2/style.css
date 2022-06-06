@@ -1,0 +1,32 @@
+.container {
+  margin: 20px;
+}
+
+h1 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-stretch: extra-condensed;
+  color: black;
+  font-weight: 100;
+}
+
+p {
+  font-size: 19px;
+  color: rgb(142, 160, 189);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  line-height: 30px;
+}
+
+ul {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande";
+  color: rgb(54, 186, 150);
+  list-style-type: none;
+  font-size: 18px;
+  margin-left: -30px;
+}
+
+ul li {
+  display: inline;
+  line-height: 50px;
+}

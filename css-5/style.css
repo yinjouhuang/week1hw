@@ -1,0 +1,47 @@
+.container {
+  padding-left: 20px;
+}
+
+.box {
+  margin: 0;
+  padding-top: 10px;
+  display: inline-block;
+  margin-right: 40px;
+}
+
+* {
+  font-family: "Jost", sans-serif;
+  font-weight: 400;
+}
+
+h1 {
+  font-size: 35px;
+  margin: 0;
+  padding-top: 20px;
+}
+
+h2 {
+  font-size: 35px;
+  color: rgb(52, 94, 233);
+  margin: 0;
+}
+
+p {
+  font-size: 20px;
+  line-height: 30px;
+  color: rgb(150, 162, 188);
+}
+
+.buttom {
+  padding-top: 0px;
+}
+
+h3 {
+  font-size: 25px;
+  margin: auto;
+}
+
+h4 {
+  font-size: 20px;
+  margin: auto;
+}

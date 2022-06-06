@@ -1,0 +1,36 @@
+body {
+  background: url("./911img.jpeg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+h1 {
+  font-size: 50px;
+  margin-bottom: 0px;
+  color: #fff;
+  font-family: "Jost", sans-serif;
+}
+
+h2 {
+  margin-top: 0;
+  color: #fff;
+  font-family: "Jost", sans-serif;
+}
+
+.title {
+  padding: 5px 0px 0px 60px;
+}
+
+button {
+  background-color: #fff;
+  color: black;
+  height: 55px;
+  width: 230px;
+  font-size: 18px;
+  font-family: "Jost", sans-serif;
+  text-align: center;
+  margin-right: 15px;
+}
+
+.buttons {
+  padding: 650px 800px 50px 50px;
+}
